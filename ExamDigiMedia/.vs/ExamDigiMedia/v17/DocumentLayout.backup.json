@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|solutionrelative:digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examdigimedia\\digimedia.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:08:27.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:05:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:05:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:04:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:04:55.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:04:19.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:02:32.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:02:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:50:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:03:34.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\appsettings.json",
+              "RelativeToolTip": "DigiMedia.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:00:01.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DigiMedia.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:54:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:50:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "RelativeDocumentMoniker": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "RelativeToolTip": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:47:09.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
