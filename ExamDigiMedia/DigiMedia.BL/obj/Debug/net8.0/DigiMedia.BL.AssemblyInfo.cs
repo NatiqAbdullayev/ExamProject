@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigiMedia.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b096345eb7ab74ec84286606d35c1887014d0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a020853437ce52313bbddf5c652c83674e6b1e28")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigiMedia.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigiMedia.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

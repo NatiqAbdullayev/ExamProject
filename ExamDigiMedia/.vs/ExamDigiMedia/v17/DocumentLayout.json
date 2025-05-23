@@ -100,15 +100,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DigiMedia.PL",
+              "Title": "DigiMedia.PL.csproj",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
               "RelativeDocumentMoniker": "DigiMedia.PL\\DigiMedia.PL.csproj",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
               "RelativeToolTip": "DigiMedia.PL\\DigiMedia.PL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-23T13:27:23.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:27:23.549Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "TextFile1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-23T13:27:12.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:27:12.83Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T13:08:27.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:08:27.738Z"
             },
             {
               "$type": "Document",
@@ -194,8 +191,7 @@
               "RelativeToolTip": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAA1wCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:47:09.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T12:47:09.985Z"
             },
             {
               "$type": "Document",

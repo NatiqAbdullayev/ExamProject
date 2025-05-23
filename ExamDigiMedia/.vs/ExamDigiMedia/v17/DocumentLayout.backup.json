@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|c:\\users\\ii novbe\\desktop\\examproject\\examdigimedia\\digimedia.bl\\services\\concrete\\productserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|solutionrelative:digimedia.bl\\services\\concrete\\productserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|c:\\users\\ii novbe\\desktop\\examproject\\examdigimedia\\digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|solutionrelative:digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examproject\\examdigimedia\\digimedia.pl\\digimedia.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\digimedia.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|c:\\users\\ii novbe\\desktop\\examproject\\examdigimedia\\digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}|DigiMedia.BL\\DigiMedia.BL.csproj|solutionrelative:digimedia.bl\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|c:\\users\\ii novbe\\desktop\\examproject\\examdigimedia\\digimedia.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82A879B7-6FEE-4899-9B00-BE1E453B993F}|DigiMedia.PL\\DigiMedia.PL.csproj|solutionrelative:digimedia.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -83,19 +87,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DigiMedia.PL",
+              "Title": "ProductSerice.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\ProductSerice.cs",
+              "RelativeDocumentMoniker": "DigiMedia.BL\\Services\\Concrete\\ProductSerice.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\ProductSerice.cs",
+              "RelativeToolTip": "DigiMedia.BL\\Services\\Concrete\\ProductSerice.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:28:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigiMedia.PL.csproj",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
               "RelativeDocumentMoniker": "DigiMedia.PL\\DigiMedia.PL.csproj",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
               "RelativeToolTip": "DigiMedia.PL\\DigiMedia.PL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-23T13:27:23.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:27:23.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\TextFile1.txt",
               "RelativeDocumentMoniker": "TextFile1.txt",
@@ -103,12 +119,11 @@
               "RelativeToolTip": "TextFile1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-23T13:27:12.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:27:12.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -116,36 +131,11 @@
               "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T13:08:27.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:08:27.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T13:05:07.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T13:05:01.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
@@ -157,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Update.cshtml",
@@ -169,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\_ViewImports.cshtml",
@@ -181,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Home\\Index.cshtml",
@@ -193,7 +183,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "RelativeDocumentMoniker": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "RelativeToolTip": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:47:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:05:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DigiMedia.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T13:05:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Shared\\_Layout.cshtml",
@@ -205,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Account\\Login.cshtml",
@@ -217,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\_ViewStart.cshtml",
@@ -229,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\appsettings.json",
               "RelativeDocumentMoniker": "DigiMedia.PL\\appsettings.json",
@@ -241,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Controllers\\AccountController.cs",
@@ -253,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "DigiMedia.PL\\Views\\Account\\Register.cshtml",
@@ -262,18 +288,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T12:50:18.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
-              "RelativeDocumentMoniker": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
-              "RelativeToolTip": "DigiMedia.BL\\Services\\Concrete\\AccountService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:47:09.985Z"
             }
           ]
         }
