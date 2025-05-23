@@ -1,439 +1,439 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\css\\styles.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\img\\basic.webp",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\img\\basic.webp",
       "PackagePath": "staticwebassets\\Admin\\assets\\img\\basic.webp"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
       "PackagePath": "staticwebassets\\Admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\Admin\\assets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\Screenshot_2564889a0-8bf2-4c02-8975-d24409aa86f6.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\Screenshot_2564889a0-8bf2-4c02-8975-d24409aa86f6.png",
       "PackagePath": "staticwebassets\\UploadedImages\\Screenshot_2564889a0-8bf2-4c02-8975-d24409aa86f6.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\Screenshot_2b0b47650-6c6f-485e-84e2-3f55e7b4fb1f.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\Screenshot_2b0b47650-6c6f-485e-84e2-3f55e7b4fb1f.png",
       "PackagePath": "staticwebassets\\UploadedImages\\Screenshot_2b0b47650-6c6f-485e-84e2-3f55e7b4fb1f.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download07fd28c1-f0b5-43cd-ac4e-8b6397e49b65.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download07fd28c1-f0b5-43cd-ac4e-8b6397e49b65.jpg",
       "PackagePath": "staticwebassets\\UploadedImages\\download07fd28c1-f0b5-43cd-ac4e-8b6397e49b65.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download3b25d3e8-8e2e-48c7-8501-fbb66100d313.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download3b25d3e8-8e2e-48c7-8501-fbb66100d313.jpg",
       "PackagePath": "staticwebassets\\UploadedImages\\download3b25d3e8-8e2e-48c7-8501-fbb66100d313.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download7a1edb25-90e5-490b-87a3-46a55f7d8cbf.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download7a1edb25-90e5-490b-87a3-46a55f7d8cbf.jpg",
       "PackagePath": "staticwebassets\\UploadedImages\\download7a1edb25-90e5-490b-87a3-46a55f7d8cbf.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download9707fe11-e0af-4746-8647-5e0e5dff1f91.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\download9707fe11-e0af-4746-8647-5e0e5dff1f91.jpg",
       "PackagePath": "staticwebassets\\UploadedImages\\download9707fe11-e0af-4746-8647-5e0e5dff1f91.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\downloada195b22c-edf7-4bed-9060-169429ab99c0.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\UploadedImages\\downloada195b22c-edf7-4bed-9060-169429ab99c0.jpg",
       "PackagePath": "staticwebassets\\UploadedImages\\downloada195b22c-edf7-4bed-9060-169429ab99c0.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\animated.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\animated.css",
       "PackagePath": "staticwebassets\\assets\\css\\animated.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\fontawesome.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\owl.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\owl.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v1.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v1.css",
       "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v1.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v2.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v2.css",
       "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v2.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v3.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\css\\templatemo-digimedia-v3.css",
       "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v3.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.eot",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.svg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.woff",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-dec-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-dec-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-dec.png",
       "PackagePath": "staticwebassets\\assets\\images\\about-dec.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-right-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\about-right-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\about-right-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\author-post.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\author-post.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\author-post.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-left-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-left-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-left-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-01.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-post-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-02.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-post-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-03.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-post-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-04.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\blog-post-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-post-04.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-bottom-right.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-bottom-right.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-dec-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-dec.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-dec.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-top-right-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\contact-top-right.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-top-right.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-1.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demo-1.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-2.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demo-2.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-3.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\demo-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\demo-3.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\email-icon.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\email-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\email-icon.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg-v2.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg-v2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v2.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg-v3.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg-v3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v3.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\footer-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\location-icon.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\location-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\location-icon.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v1.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v1.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-v1.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\logo-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\phone-icon.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\phone-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\phone-icon.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-01.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-02.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-03.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-04.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-04.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-left-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-left-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-left-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-right-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\portfolio-right-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\portfolio-right-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg-v2.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg-v2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v2.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg-v3.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg-v3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\quote-bg-v3.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\quote-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\quote-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-01.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-02.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-03.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-04.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\service-icon-04.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-02.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-image-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-03.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-image-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-04.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-image-04.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-image.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-image.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-left-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-left-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-left-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-right-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\services-right-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-right-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec-v2.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec-v2.png",
       "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v2.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec-v3.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec-v3.png",
       "PackagePath": "staticwebassets\\assets\\images\\slider-dec-v3.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec.png",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-dec.png",
       "PackagePath": "staticwebassets\\assets\\images\\slider-dec.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-left-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-left-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider-left-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-right-dec.jpg",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\images\\slider-right-dec.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider-right-dec.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\animation.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\animation.js",
       "PackagePath": "staticwebassets\\assets\\js\\animation.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\custom.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\imagesloaded.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\imagesloaded.js",
       "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\isotope.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\isotope.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\owl-carousel.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\tabs.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\js\\tabs.js",
       "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "Id": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.map"
     },
     {

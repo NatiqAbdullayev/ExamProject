@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiMedia.BL", "DigiMedia.BL\DigiMedia.BL.csproj", "{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigiMedia.BL", "DigiMedia.BL\DigiMedia.BL.csproj", "{3E009614-FC4E-4FAF-915D-7BA5FAC8D05A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiMedia.DAL", "DigiMedia.DAL\DigiMedia.DAL.csproj", "{040ADDA4-87C6-42B3-9C64-3B1638271A4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigiMedia.DAL", "DigiMedia.DAL\DigiMedia.DAL.csproj", "{040ADDA4-87C6-42B3-9C64-3B1638271A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiMedia.PL", "DigiMedia.PL\DigiMedia.PL.csproj", "{82A879B7-6FEE-4899-9B00-BE1E453B993F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigiMedia.PL", "DigiMedia.PL\DigiMedia.PL.csproj", "{82A879B7-6FEE-4899-9B00-BE1E453B993F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAD179ED-EFA6-4FBF-81CD-6193BC572F9C}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

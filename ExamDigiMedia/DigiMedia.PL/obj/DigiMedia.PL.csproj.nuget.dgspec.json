@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj",
         "projectName": "DigiMedia.BL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
         "projectName": "DigiMedia.DAL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
         "projectName": "DigiMedia.PL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\DigiMedia.PL.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.PL\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,8 +185,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.BL\\DigiMedia.BL.csproj"
               }
             }
           }

@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DigiMedia.PL
 build_property.RootNamespace = DigiMedia.PL
-build_property.ProjectDir = C:\Users\II Novbe\Desktop\ExamDigiMedia\DigiMedia.PL\
+build_property.ProjectDir = C:\Users\II Novbe\Desktop\ExamProject\ExamDigiMedia\DigiMedia.PL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II Novbe\Desktop\ExamDigiMedia\DigiMedia.PL
+build_property.MSBuildProjectDirectory = C:\Users\II Novbe\Desktop\ExamProject\ExamDigiMedia\DigiMedia.PL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Create.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Index.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Update.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/Account/Login.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/Account/Register.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/Home/Index.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/Shared/_Layout.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/_ViewImports.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/Desktop/ExamDigiMedia/DigiMedia.PL/Views/_ViewStart.cshtml]
+[C:/Users/II Novbe/Desktop/ExamProject/ExamDigiMedia/DigiMedia.PL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

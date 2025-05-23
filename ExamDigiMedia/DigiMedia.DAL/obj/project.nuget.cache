@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nId9EG7CXgQ=",
+  "dgSpecHash": "1od82gZqn7g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\II Novbe\\Desktop\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
+  "projectFilePath": "C:\\Users\\II Novbe\\Desktop\\ExamProject\\ExamDigiMedia\\DigiMedia.DAL\\DigiMedia.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
